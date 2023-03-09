@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration-line: none;
+    color: #252525;
+}
+a:hover {
+    color: #505050;
+}
+a:visited {
+    color: #ffc403;
+}
